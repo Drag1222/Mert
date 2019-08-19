@@ -1,0 +1,2 @@
+# Mert
+Yeni Kodlamaya Başladım
